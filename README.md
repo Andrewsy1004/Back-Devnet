@@ -15,3 +15,7 @@ docker-compose up -d
 ```
 
 6. Start ```npm run start:dev```
+
+
+## 🤝 Contributions Welcome!
+If you’d like to contribute, feel free to jump in! Fork the repo, create a branch, and submit a pull request. 🚀  
